@@ -3,7 +3,7 @@ let rooms = [{
         "eng": "Economy Double Room",
         "price": 7000,
         "amount": 0,
-        "cover": "http://bosscode.monoame.com/20170323_vue_comp/img/room%20(1).jpg",
+        "cover": "https://images.unsplash.com/flagged/photo-1556438758-8d49568ce18e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
         "discount": 0.9,
         "equipment": {
             "wifi": false,
@@ -16,7 +16,7 @@ let rooms = [{
         "eng": "Sea view triple Room",
         "price": 7800,
         "amount": 0,
-        "cover": "http://bosscode.monoame.com/20170323_vue_comp/img/room%20(2).jpg",
+        "cover": "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "discount": 0.8,
         "equipment": {
             "wifi": true,
@@ -29,7 +29,7 @@ let rooms = [{
         "eng": "Elegant landscape Room",
         "price": 5400,
         "amount": 0,
-        "cover": "http://bosscode.monoame.com/20170323_vue_comp/img/room%20(3).jpg",
+        "cover": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "discount": 0.85,
         "equipment": {
             "wifi": false,
@@ -42,7 +42,7 @@ let rooms = [{
         "eng": "Exclusive Deluxe Room",
         "price": 9800,
         "amount": 0,
-        "cover": "http://bosscode.monoame.com/20170323_vue_comp/img/room%20(4).jpg",
+        "cover": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "discount": 0.8,
         "equipment": {
             "wifi": true,
@@ -68,7 +68,7 @@ let rooms = [{
         "eng": "Hot spring double Room",
         "price": 8400,
         "amount": 0,
-        "cover": "http://bosscode.monoame.com/20170323_vue_comp/img/room (6).jpg",
+        "cover": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "discount": 0.6,
         "equipment": {
             "wifi": true,
@@ -81,7 +81,7 @@ let rooms = [{
         "eng": "Presidential Suite",
         "price": 23000,
         "amount": 0,
-        "cover": "http://bosscode.monoame.com/20170323_vue_comp/img/room (7).jpg",
+        "cover": "https://images.unsplash.com/photo-1595526051245-4506e0005bd0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "discount": 0.75,
         "equipment": {
             "wifi": true,
@@ -94,7 +94,7 @@ let rooms = [{
         "eng": "Luxury four Room",
         "price": 8500,
         "amount": 0,
-        "cover": "http://bosscode.monoame.com/20170323_vue_comp/img/room (8).jpg",
+        "cover": "https://images.unsplash.com/photo-1594563703937-fdc640497dcd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
         "discount": 0.7,
         "equipment": {
             "wifi": true,
