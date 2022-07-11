@@ -55,7 +55,7 @@ let rooms = [{
         "eng": "Business Double Room",
         "price": 5600,
         "amount": 0,
-        "cover": "http://bosscode.monoame.com/20170323_vue_comp/img/room (5).jpg",
+        "cover": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "discount": 0.9,
         "equipment": {
             "wifi": true,
