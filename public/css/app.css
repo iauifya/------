@@ -1,0 +1,94 @@
+* {
+    position: relative;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow-y: hidden;
+}
+
+body {
+    padding: 1rem;
+}
+
+.hero {
+    padding-top: 40px;
+}
+
+.cursor_pointer {
+    cursor: pointer;
+}
+
+.room_col {
+    padding: 1rem;
+}
+
+.room_item {
+    /* padding: 1.2rem; */
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, .3);
+}
+
+.cover {
+    height: 200px;
+    background-color: #eee;
+    background-position: center center;
+    background-size: cover;
+}
+
+.cover h3 {
+    position: absolute;
+    left: 0;
+    bottom: 20px;
+    padding: 4px 12px;
+    background-color: #fff;
+}
+
+.cover i {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #fff;
+}
+
+.cover i:hover {
+    color: red;
+}
+
+.info {
+    padding: 1rem;
+}
+
+.info h2 span {
+    color: red
+}
+
+.info h5 {
+    font-size: 16px;
+}
+
+.info h2 {
+    font-size: 24px;
+}
+
+.info .icons {
+    display: inline-block;
+    margin-left: 8px;
+}
+
+.info .icons span {
+    margin-right: 4px;
+    opacity: .8;
+}
+
+.col_edit,
+.col_rooms {
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.room_edit {
+    margin-top: 2rem;
+}
